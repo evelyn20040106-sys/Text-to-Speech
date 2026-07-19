@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Text-to-Speech/Text-to-Speech.vcxproj" Id="3c32ae6f-6816-40d9-9b60-821aef2df3d0" />
+</Solution>
